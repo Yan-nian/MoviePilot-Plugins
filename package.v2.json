@@ -6,7 +6,7 @@
     "version": "1.0.0",
     "icon": "hosts.png",
     "author": "Yan-nian",
-    "level": 1,
+    "level": 2,
     "history": {
       "v1.0.0": "ImmortalWrt路由Hosts同步插件首发版本"
     }

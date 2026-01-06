@@ -21,6 +21,18 @@
     "level": 2,
     "history": {
       "v2.5.0": "重构插件以适配 MoviePilot 插件仓库标准，支持 V2 版本规范"
-    }
-  }
+    }  },
+  "PlexPartialScan": {
+    "name": "Remote Plex Scanner",
+    "description": "远程Plex局部扫描 - 跨服务器路径映射，自动刷新rclone缓存并触发Plex扫描，完美支持分离部署架构",
+    "labels": "Plex,rclone,远程扫描,路径映射,跨服务器",
+    "version": "2.2",
+    "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/plex.png",
+    "author": "MoviePilot",
+    "level": 2,
+    "history": {
+      "v2.2": "优化路径映射和库ID识别逻辑",
+      "v2.0": "重大更新：完全重构为Remote Plex Scanner，支持跨服务器路径映射和rclone VFS缓存刷新",
+      "v1.0": "初始版本，基础的Plex局部扫描功能"
+    }  }
 }

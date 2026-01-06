@@ -17,7 +17,7 @@ class PlexTraktSync(_PluginBase):
     # 插件描述
     plugin_desc = "同步 Plex 观看记录到 Trakt（使用手动配置的 Plex 信息）"
     # 插件图标
-    plugin_icon = "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/trakt.png"
+    plugin_icon = "Trakt_A.png"
     # 插件版本
     plugin_version = "2.5.0"
     # 插件作者

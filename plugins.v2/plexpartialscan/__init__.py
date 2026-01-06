@@ -20,11 +20,11 @@ class PlexPartialScan(_PluginBase):
     # 插件描述
     plugin_desc = "远程Plex局部扫描 - 跨服务器路径映射，自动刷新rclone缓存并触发Plex扫描"
     # 插件图标
-    plugin_icon = "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/plex.png"
+    plugin_icon = "Plex_A.png"
     # 插件版本
     plugin_version = "2.2"
     # 插件作者
-    plugin_author = "MoviePilot"
+    plugin_author = "Yan-nian"
     # 作者主页
     author_url = "https://github.com/jxxghp/MoviePilot-Plugins"
     # 插件配置项ID前缀

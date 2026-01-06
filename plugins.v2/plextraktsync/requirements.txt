@@ -1,0 +1,15 @@
+# Plex-Trakt Sync 插件依赖
+
+# Plex API 客户端
+PlexAPI==4.17.2
+
+# PyTrakt - Python wrapper for Trakt.tv API
+# 重要：安装后导入为 import trakt (不是 import pytrakt)
+# 包名是 pytrakt，但模块名是 trakt
+# GitHub: https://github.com/moogar0880/PyTrakt
+pytrakt==4.2.2
+
+# 确保不安装其他冲突的 trakt 包
+# 如果已安装其他 trakt 包，需要先卸载：
+# pip uninstall trakt trakt.py -y
+# pip install pytrakt==4.2.2

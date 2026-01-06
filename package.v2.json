@@ -10,5 +10,17 @@
     "history": {
       "v1.0.0": "ImmortalWrt路由Hosts同步插件首发版本"
     }
+  },
+  "PlexTraktSync": {
+    "name": "Plex Trakt 同步",
+    "description": "同步 Plex 观看记录到 Trakt（支持双向同步、评分同步、收藏同步）",
+    "labels": "同步,Plex,Trakt",
+    "version": "2.5.0",
+    "icon": "https://raw.githubusercontent.com/jxxghp/MoviePilot-Plugins/main/icons/trakt.png",
+    "author": "Yan-nian",
+    "level": 2,
+    "history": {
+      "v2.5.0": "重构插件以适配 MoviePilot 插件仓库标准，支持 V2 版本规范"
+    }
   }
 }
